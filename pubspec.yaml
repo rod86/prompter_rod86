@@ -1,0 +1,12 @@
+name: prompter_rod86
+version: 0.0.1
+description: Library to create CLI wizards
+
+# DEPRECATED. verify publisher
+authors: 
+  - fake<fake@example.com>
+  
+homepage: https://github.com/rod86/prompter_rod86
+
+environment:
+  sdk: "<3.0.0"
